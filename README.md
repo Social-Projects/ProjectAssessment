@@ -1,4 +1,4 @@
-# Lv-175.Net-Assessments
+# Project Assessment
 
 A tool for making an assessment of a software development project by some criteria.
 We can see some statistics on existing assessments, e.g. strong and weak areas etc.
